@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aa6859
-- 👀 I’m interested in teck
+- 👋 Hi, I’m adrian
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on roblox
 <!---
